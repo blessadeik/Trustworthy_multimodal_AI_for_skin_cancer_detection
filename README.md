@@ -19,8 +19,8 @@ Early detection of skin cancer is critical—but most AI tools rely solely on im
 
 ##  Team
 
-- **Mentor**: Blessing Isoyiza Adeika  
-- **Students**:
+- Mentor: Blessing Isoyiza Adeika  
+- Students:
   - Cara Hicks  
   - Crystal Onyeama  
   - Kenidee Blakey  
@@ -30,7 +30,7 @@ Early detection of skin cancer is critical—but most AI tools rely solely on im
 
 ##  Repository Structure
 
-```text
+
 ├── data/  
 │   ├── raw/                    # Original datasets (download before preprocessing)  
 │   └── processed/              # Cleaned, merged, balanced CSVs & images  
@@ -64,8 +64,8 @@ We sourced three public skin-lesion datasets to ensure diverse Fitzpatrick repre
 1. Clone the repo
 
    ```bash
-   git clone https://github.com/your-org/skin-cancer-multimodal-ai.git
-   cd skin-cancer-multimodal-ai
+   git clone https://github.com/blessadeik/Trustworthy_multimodal_AI_for_skin_cancer_detection.git
+   cd Trustworthy_multimodal_AI_for_skin_cancer_detection
    ```
 
 2. Create a virtual environment
