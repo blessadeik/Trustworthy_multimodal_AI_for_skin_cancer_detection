@@ -6,7 +6,7 @@ A multimodal deep‐learning framework that combines skin lesion images with pat
 ````markdown
 # Trustworthy Multimodal AI for Skin Cancer Detection
 
-Group 2, 2025 CEAMLS Summer AI Research Institute  
+Group 1, 2025 CEAMLS Summer AI Research Institute  
 Faculty: Dr. Saroj Pramanik
 
 ---
@@ -132,7 +132,7 @@ For questions or collaboration, please reach out to **Blessing Adeika** at *[ble
 ---
 
 > *“Equitable AI saves lives—one pixel at a time.”*
-> — Group 2, 2025 CEAMLS Summer AI Research Institute
+> — Group 1, 2025 CEAMLS Summer AI Research Institute
 
 ```
 ```
